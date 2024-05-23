@@ -1,0 +1,8 @@
+C:\Users\fmi\source\repos\uprajenienineainai\uprajenienineainai\bin\Debug\uprajenienineainai.exe.config
+C:\Users\fmi\source\repos\uprajenienineainai\uprajenienineainai\bin\Debug\uprajenienineainai.exe
+C:\Users\fmi\source\repos\uprajenienineainai\uprajenienineainai\bin\Debug\uprajenienineainai.pdb
+C:\Users\fmi\source\repos\uprajenienineainai\uprajenienineainai\obj\Debug\uprajenienineainai.csproj.AssemblyReference.cache
+C:\Users\fmi\source\repos\uprajenienineainai\uprajenienineainai\obj\Debug\uprajenienineainai.csproj.SuggestedBindingRedirects.cache
+C:\Users\fmi\source\repos\uprajenienineainai\uprajenienineainai\obj\Debug\uprajenienineainai.csproj.CoreCompileInputs.cache
+C:\Users\fmi\source\repos\uprajenienineainai\uprajenienineainai\obj\Debug\uprajenienineainai.exe
+C:\Users\fmi\source\repos\uprajenienineainai\uprajenienineainai\obj\Debug\uprajenienineainai.pdb
