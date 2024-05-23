@@ -20,6 +20,7 @@ namespace uprajenienineainai
             firstBattle.StartBattle(superman, batman);
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("Battle ends");
+            Console.WriteLine( "dsadsa");
         }
     }
 }
